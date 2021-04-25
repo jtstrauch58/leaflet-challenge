@@ -9,7 +9,7 @@ html {
   height: 100%;
 }
 
-.info legend {
+.legend {
   padding: 10px;
   font-family: Sanchez, serif;
   font-size: 16px;
@@ -18,5 +18,6 @@ html {
   color: #555;
   background-color: white;
   border-radius: 5px;
+  opacity: 0.6;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
